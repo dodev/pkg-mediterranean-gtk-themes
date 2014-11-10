@@ -223,6 +223,7 @@
 @import url("sidebar.css");
 @import url("gtk-widgets-assets.css");
 @import url("gnome-panel.css");
+@import url("window-controls.css");
 
 /* Select style for TABS
 
