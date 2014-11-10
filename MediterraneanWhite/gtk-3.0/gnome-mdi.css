@@ -978,26 +978,26 @@ CheeseThumbView /* Cheese */
 }
 
 /* desktop mode */
-.nemo-desktop.nautilus-canvas-item,
+.nemo-desktop.nemo-canvas-item,
 .nautilus-desktop.nautilus-canvas-item {
-    color: white;
+    color: #fff;
     text-shadow: 1px 1px black;
 }
 
-.nemo-desktop.nautilus-canvas-item:active,
+.nemo-desktop.nemo-canvas-item:active,
 .nautilus-desktop.nautilus-canvas-item:active {
     background-image: none;
     color: @theme_text_color;
 }
 
-.nemo-desktop.nautilus-canvas-item:selected,
+.nemo-desktop.nemo-canvas-item:selected,
 .nautilus-desktop.nautilus-canvas-item:selected {
     color: @theme_selected_fg_color;
 }
 
-.nemo-desktop.nautilus-canvas-item:active,
-.nemo-desktop.nautilus-canvas-item:prelight,
-.nemo-desktop.nautilus-canvas-item:selected,
+.nemo-desktop.nemo-canvas-item:active,
+.nemo-desktop.nemo-canvas-item:prelight,
+.nemo-desktop.nemo-canvas-item:selected,
 .nautilus-desktop.nautilus-canvas-item:active,
 .nautilus-desktop.nautilus-canvas-item:prelight,
 .nautilus-desktop.nautilus-canvas-item:selected {
